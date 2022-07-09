@@ -1,2 +1,2 @@
-# SoftUni-Fundamentals-Learning-with-C-
+# SoftUni-Fundamentals-Learning-with C#
 ExamPreparation
